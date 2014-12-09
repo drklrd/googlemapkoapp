@@ -25,7 +25,7 @@ var map;
 var mapOptions;
 var myLatLng;
 var beachMarker;
-var x ;
+var x;
 var markerpos;
 
 function getLocation() {

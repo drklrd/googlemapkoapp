@@ -12,7 +12,8 @@ Just  run this on some local server . Agree to 'Share your location' when prompt
 
 Additional features are yet to be added. 
 
-Feel Free to Download, modify and distribute.
+Feel Free to Download, modify and distribute. 
+Enjoy !
 
 
 
